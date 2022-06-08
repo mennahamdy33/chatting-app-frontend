@@ -6,7 +6,7 @@
   This project aims to develop a Chatting App using MERN stack. It mainly consists of developing and implementing Front End App
   using React JavaScript library, Back End server using NodeJs, and to use socket.io to communicate between the client and server.  
 
-<br/><br/>
+<br/>
 <!-- #################################################### -->
 
 <!-- #################################################### -->
