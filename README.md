@@ -6,7 +6,7 @@
   This project aims to develop a Chatting App using MERN stack. It mainly consists of developing and implementing Front End App
   using React JavaScript library, Back End server using NodeJs, and to use socket.io to communicate between the client and server.  
 
-<br/>
+<br/><br/>
 <!-- #################################################### -->
 
 <!-- #################################################### -->
@@ -20,9 +20,10 @@
 
 <!-- #################################################### -->
 <h1 align="center">Front End</h1>
-  <h2>Chatting App</h2>
+
   <h2><a href="https://github.com/mennahamdy33/chatting-app-frontend">Githup link frontend part</a></h2>
-  
+  <br/><br/>
+    <h2>Chatting App</h2>
   <p align="center">
     <img width="650" src="staticFiles/images/app.png" alt="chatting app">  
   </p>
