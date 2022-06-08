@@ -21,7 +21,7 @@
 <!-- #################################################### -->
 <h1 align="center">Front End</h1>
   <h2>Chatting App</h2>
-  <h2><a href="[https://github.com/AhmedElKhouly99/Good-Reads-Users](https://github.com/mennahamdy33/chatting-app-frontend)">Githup link frontend part</a></h2>
+  <h2><a href="https://github.com/mennahamdy33/chatting-app-frontend">Githup link frontend part</a></h2>
   
   <p align="center">
     <img width="650" src="staticFiles/images/app.png" alt="chatting app">  
