@@ -1,13 +1,89 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, ubuntu;
+  background: #FFFFF0;
+ 
+  padding: 0;
+  max-width: 800px;
+   margin-top: 50px;
+}
+
+
+input,
+button {
+  font-family: verdana, ubuntu;
+}
+
+html,
+body {
+  font-family: -apple-system;
+  margin-left: 13%;
+}
+h1 {
+  font-size: 48px;
+}
+
+h2 {
+  font-size: 36px;
+}
+
+.container {
+  height: 80%;
+  max-height: 450px;
+  max-width: 850px;
+  margin: 0 auto;
+}
+
+.install {
+  text-align: center;
+  margin: 20px auto;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  margin: 20px auto;
+  background-color: #eee;
+  padding: 10px 20px;
+}
+
+input {
+  border: none;
+  
+  font-size: 16px;
+  padding: 30px;
+  width: 92%;
+}
+
+input:focus {
+  outline: none;
+}
+
+.chatfeed-wrapper {
+   background: 	#FAEBD7;
+  box-shadow: 0 20px 20px rgba(0, 0, 0, 0.08);
+  border-radius: 4px;
+  margin: 0 auto;
+  border: 1px solid #ddd;
+  overflow-y: scroll;
+  padding-bottom: 20px;
+}
+
+#chat-panel {
+  padding: 0px 10px;
+}
+
+.chat-history {
+  display: block;
+}
+
+.outer {
+  display: block;
+  overflow-y: scroll;
+  position: relative;
+}
+
+.inner {
+  margin: 0 auto;
+}
+
+.text-center {
+  text-align: center;
 }
